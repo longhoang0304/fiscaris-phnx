@@ -1,6 +1,6 @@
 [submodule "fiscaris-phnx-api"]
 	path = fiscaris-phnx-api
-	url = git@github-lh34.com:longhoang0304/fiscaris-phnx-api.git
+	url = git@github.com:longhoang0304/fiscaris-phnx-api.git
 [submodule "fiscaris-phnx-fe"]
 	path = fiscaris-phnx-fe
-	url = git@github-lh34.com:longhoang0304/fiscaris-phnx-fe.git
+	url = git@github.com:longhoang0304/fiscaris-phnx-fe.git
